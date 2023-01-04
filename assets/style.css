@@ -53,6 +53,12 @@ body > *:last-child {
     margin-right: 0;
 }
 
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 main > *:first-child {
     margin-top: 0;
 }
