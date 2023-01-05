@@ -3,6 +3,7 @@ html {
     color: #444;
     margin: 0;
     padding: 50px;
+    box-sizing: border-box;
     display: flex;
     flex-direction: column;
     justify-content: center;
